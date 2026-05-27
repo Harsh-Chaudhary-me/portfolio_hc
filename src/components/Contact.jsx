@@ -248,7 +248,7 @@ export default function Contact() {
                 hover:bg-gradient-to-r hover:from-emerald-500 hover:to-emerald-400 hover:text-black hover:shadow-emerald-500/20 active:scale-95 disabled:opacity-50"
             >
               {isSubmitting ? (
-                <span>Transmitting...</span>
+                <span>Transmitting..</span>
               ) : (
                 <>
                   <Send className="w-4 h-4" />
@@ -260,7 +260,7 @@ export default function Contact() {
             {/* Submission Status Message */}
             {submitStatus === 'success' && (
               <div className="p-3 bg-emerald-500/10 border border-emerald-500/20 rounded-lg text-emerald-400 text-xs sm:text-sm text-center font-mono animate-[fadeIn_0.3s_ease-out]">
-                ✓ Message transmitted successfully!
+                ✓ Message sent successfully!
               </div>
             )}
             {submitStatus === 'error' && (
