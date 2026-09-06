@@ -171,7 +171,7 @@ export default function EducationExperience({ onShowCertificates }) {
               
               <div className="flex items-center justify-between border-t border-border-main/50 pt-4 mt-4 text-xs font-mono text-text-muted">
                 <span>YEAR: 2023 - 2027</span>
-                <span className="text-emerald-400 font-bold">3rd Year</span>
+                <span className="text-emerald-400 font-bold">4th Year</span>
               </div>
             </div>
 
