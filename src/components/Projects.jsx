@@ -47,8 +47,8 @@ const otherProjects = [
   {
     title: "Portfolio",
     description: "A responsive portfolio engineered with React and modern CSS frameworks, serving as a centralized hub for my technical projects and achievements.",
-    github: "#",
-    live: "#",
+    github: "https://portfolio.harshchaudhary.workers.dev/",
+    live: "https://portfolio.harshchaudhary.workers.dev/",
     // Swapped JSX mockup for the image import
     image: portfolioImg 
   }

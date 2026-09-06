@@ -70,7 +70,7 @@ export default function Hero() {
 
         {/* Bio Paragraph */}
         <p className="text-[16px] sm:text-lg text-text-muted max-w-2xl leading-relaxed mt-2">
-          3rd-year Computer Science student at KIET Group of Institutions. Passionate about digital security, competitive programming, and building highly scalable, secure web architectures.
+          Final year Computer Science student at KIET Group of Institutions. Passionate about digital security, competitive programming, and building highly scalable, secure web architectures.
         </p>
 
         {/* CTA Buttons */}
